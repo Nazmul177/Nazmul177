@@ -1,17 +1,20 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Nazmul.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-<h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
+<h3 align='center'>
+  A passionate Frontend Developer from Bangladesh 💚❤ 
+</h3>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 <br/>
 <img src="./Assets/linkedin.jpg" alt="Front End Developer Banner" />
 <br/>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul177&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul177" /> </p>
+
 
 
 
