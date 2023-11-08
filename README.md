@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <br/>
-<img src="https://ibb.co/hWxB1mc" alt="Front End Developer Banner" />
+<img href="https://ibb.co/hWxB1mc" alt="Front End Developer Banner" />
 <br/>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
