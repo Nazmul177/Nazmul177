@@ -35,7 +35,7 @@
 ## ‍🎃 Coding Profile:
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/nazmul97)
-[![hackerrank](https://img.shields.io/badge/-CodeForces-2EC866?style=for-the-badge&logo=CodeForces&logoColor=white))](https://codeforces.com/profile/Nazmul_Islam97)
+[![hackerrank](https://img.shields.io/badge/-CodeForces-2EC866?style=for-the-badge&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Nazmul_Islam97)
 
 
 
